@@ -2,8 +2,7 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a & */
-@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Bruno+Ace+SC&family=Caveat&family=Dancing+Script&family=Indie+Flower&family=Lilita+One&family=Open+Sans&family=Tangerine&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Bruno+Ace+SC&family=Caveat&family=Dancing+Script&family=Indie+Flower&family=Lilita+One&family=Open+Sans&family=Playfair+Display:ital,wght@0,400;0,700;1,600&family=Roboto+Slab:wght@300;700&family=Sigmar&family=Tangerine&display=swap');
 :root {
   /* change the values below to your colors from your palette */
   --primary-color: #396E94   ;
@@ -28,7 +27,7 @@ Fonts are separated by a & */
 }
 
 .boldscript{
-  --heading-font: "Bruno Ace","Open Sans"
+  --heading-font: "Playfair Display","Open Sans"
 }
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
