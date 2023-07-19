@@ -292,6 +292,7 @@ footer p a:hover {
 
 .take-lessons-grid{
     display: grid;
+    margin: 0 auto;
     max-width: 1600px;
     grid-template-columns: 1fr 1fr;
     background-color: lightgray;
