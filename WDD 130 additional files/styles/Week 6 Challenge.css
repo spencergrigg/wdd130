@@ -1,0 +1,14 @@
+.large-text {
+    color: aqua;
+    z-index: 1;
+}
+
+.h2-text {
+    color: red;
+    z-index: 1;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 100px 100px;
+}
